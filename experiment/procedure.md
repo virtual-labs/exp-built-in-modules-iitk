@@ -1,4 +1,3 @@
-### Procedure
 1. Read the simulator details.
 2. Enter the input values.
 3. Press CALCULATE to proceed.

@@ -1,4 +1,3 @@
-### Theory
 To perform specific functions like add, subtract, power, square root, we need to write two three lines of logic to make our task or function work properly. So we have built in functions inside those modules which can straight away perform those task by passing the values to calculate.
 Here you will learn about some of the built-in modules used in Python programming language.<br>
  We simply have to import those built in modules present inside the program then we can easily perform those specific task after calling those functions.
