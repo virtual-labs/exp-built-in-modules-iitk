@@ -15,7 +15,7 @@ The above given example is of math module. Here math module is imported, with th
 We can use any Python source file as a module by executing an import statement in some other Python source file. 
 When the interpreter encounters an import statement, it imports the module if the module is present in the search path. For example, to import the module calculate.py, we need to put the following command at the top of the script :<br><br>
 Program<br><br>
-<img src="images/img3.PNG"><br>
+<img src="images/img3.PNG"><br><br>
 <img src="images/img4.PNG"><br>
 Output<br><br>
 12<br><br>
