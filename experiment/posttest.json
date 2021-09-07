@@ -1,0 +1,46 @@
+[{
+	"question": "1.The function pow(a,b,c) is evaluated as:",
+	"answers": {
+		"a": "(a**b)**c", 
+		"b": "(a**b) / c", 
+		"c": "(a**b) % c", 
+		"d": "(a**b)*c" 
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "What is the output of the following? divmod(10.5,5) <br> divmod(2.4,1.2)",
+	"answers": {
+		        "a": "(2.00, 0.50)(2.00, 0.00) ", 
+                "b": "(2, 0.5)(2, 0)", 
+                "c": "(2.0, 0.5)(2.0, 0.0)", 
+                "d": "(2, 0.5)(2)"
+	},
+	"correctAnswer": "c"
+},{
+	"question": "What is the output of the following code?",
+	"answers": {
+		        "a": "4",
+                "b": "5",
+                "c": "1",
+                "d": "An exception is thrown"
+	},
+	"correctAnswer": "b"
+},{
+	"question": "What is the output of the functions shown below?<br>min(max(False,-2,-6), 3,5,6)",
+	"answers": {
+		        "a": "2",
+                "b": "False",
+                "c": "-3",
+                "d": "4"
+	},
+	"correctAnswer": "b"
+},{
+	"question": "Which of the following functions does not necessary accept only iterables as arguments?",
+	"answers": {
+		        "a": "enumerate()",
+                "b": "any()",
+                "c": "chr()",
+                "d": "min()"
+	},
+	"correctAnswer": "c"
+}]
