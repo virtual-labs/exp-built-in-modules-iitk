@@ -17,14 +17,14 @@
 	},
 	"correctAnswer": "c"
 },{
-	"question": "What is the output of the following code?",
+	"question": "Which of the following is not an advantage of using modules",
 	"answers": {
-		        "a": "4",
-                "b": "5",
-                "c": "1",
-                "d": "An exception is thrown"
+		 "a": "Provides a means of reuse of program code",
+                "b": "Provides a means of dividing up tasks",
+                "c": "Provides a means of reducing the size of the program",
+                "d": "Provides a means of testing individual parts of the program"
 	},
-	"correctAnswer": "b"
+	"correctAnswer": "c"
 },{
 	"question": "What is the output of the functions shown below?<br>min(max(False,-2,-6), 3,5,6)",
 	"answers": {
@@ -35,12 +35,12 @@
 	},
 	"correctAnswer": "b"
 },{
-	"question": "Which of the following functions does not necessary accept only iterables as arguments?",
+	"question": "Program code making use of a given module is called a ______ of the module",
 	"answers": {
-		        "a": "enumerate()",
-                "b": "any()",
-                "c": "chr()",
-                "d": "min()"
+		"a": "Client",
+                "b": "Docstring",
+                "c": "Interface",
+                "d": "Modularity"
 	},
-	"correctAnswer": "c"
+	"correctAnswer": "a"
 }]
