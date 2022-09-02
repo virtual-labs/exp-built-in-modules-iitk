@@ -26,14 +26,12 @@
 	},
 	"correctAnswer": "b"
 },{
-	"question": "What is the output of the function shown below? import math   abs(math.sqrt(16))",
+	"question": "In top-down design every module is broken into same number of submodules",
 	"answers": {
-		         "a": "Error",
-                 "b": "-4",
-                 "c": "4",
-                 "d": "4.0"
+		  "a": "True",
+                 "b": "False",
 	},
-	"correctAnswer": "d"
+	"correctAnswer": "b"
 },{
 	"question": "How to reverse the given list? x=[2,5,8].",
 	"answers": {
