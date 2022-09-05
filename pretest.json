@@ -1,0 +1,44 @@
+[{
+	"question": "What is the output of the following function? complex(3+5j)",
+	"answers": {
+		"a": "Error",
+        "b": "3",
+        "c": "5j",
+        "d": "3+5j"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Which of the following functions is a built-in function in python?",
+	"answers": {
+		"a": "seed()",
+		"b": "sqrt()",
+		"c": "factorial()",
+		"d": "print()"
+	},
+	"correctAnswer": "d"
+},{
+	"question": "What is the output of the expression? round(2.578)",
+	"answers": {
+		"a": "2.5",
+        "b": "3",
+        "c": "2",
+        "d": "2.6"
+	},
+	"correctAnswer": "b"
+},{
+	"question": "In top-down design every module is broken into same number of submodules",
+	"answers": {
+		  "a": "True",
+                 "b": "False"
+	},
+	"correctAnswer": "b"
+},{
+	"question": "How to reverse the given list? x=[2,5,8].",
+	"answers": {
+		"a": "reverse(x)",
+        "b": "list(reverse[(x)])",
+        "c": "reversed(x)",
+        "d": "list(reversed(x))"
+	},
+	"correctAnswer": "a"
+}]

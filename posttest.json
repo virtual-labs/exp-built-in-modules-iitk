@@ -1,0 +1,46 @@
+[{
+	"question": "The function pow(a,b,c) is evaluated as:",
+	"answers": {
+		"a": "(a**b)**c", 
+		"b": "(a**b) / c", 
+		"c": "(a**b) % c", 
+		"d": "(a**b)*c" 
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "What is the output of the following? divmod(10.5,5) <br> divmod(2.4,1.2)",
+	"answers": {
+		        "a": "(2.00, 0.50)(2.00, 0.00) ", 
+                "b": "(2, 0.5)(2, 0)", 
+                "c": "(2.0, 0.5)(2.0, 0.0)", 
+                "d": "(2, 0.5)(2)"
+	},
+	"correctAnswer": "c"
+},{
+	"question": "Which of the following is not an advantage of using modules",
+	"answers": {
+		 "a": "Provides a means of reuse of program code",
+                "b": "Provides a means of dividing up tasks",
+                "c": "Provides a means of reducing the size of the program",
+                "d": "Provides a means of testing individual parts of the program"
+	},
+	"correctAnswer": "c"
+},{
+	"question": "What is the output of the functions shown below?<br>min(max(False,-2,-6), 3,5,6)",
+	"answers": {
+		        "a": "2",
+                "b": "False",
+                "c": "-3",
+                "d": "4"
+	},
+	"correctAnswer": "b"
+},{
+	"question": "Program code making use of a given module is called a ______ of the module",
+	"answers": {
+		"a": "Client",
+                "b": "Docstring",
+                "c": "Interface",
+                "d": "Modularity"
+	},
+	"correctAnswer": "a"
+}]
