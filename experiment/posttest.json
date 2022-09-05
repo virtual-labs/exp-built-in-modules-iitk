@@ -1,5 +1,5 @@
 [{
-	"question": "1.The function pow(a,b,c) is evaluated as:",
+	"question": "The function pow(a,b,c) is evaluated as:",
 	"answers": {
 		"a": "(a**b)**c", 
 		"b": "(a**b) / c", 
