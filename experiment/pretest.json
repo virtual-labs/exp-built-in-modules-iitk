@@ -1,5 +1,5 @@
 [{
-	"question": "1.What is the output of the following function? complex(3+5j)",
+	"question": "What is the output of the following function? complex(3+5j)",
 	"answers": {
 		"a": "Error",
         "b": "3",
