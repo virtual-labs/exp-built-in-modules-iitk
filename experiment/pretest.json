@@ -42,5 +42,5 @@
         "c": "reversed(x)",
         "d": "list(reversed(x))"
 	},
-	"correctAnswer": "a"
+	"correctAnswer": "d"
 }]
